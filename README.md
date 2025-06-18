@@ -26,8 +26,9 @@ Slack username: Xinyang Wang
 
 This was my first time designing a board using Kicad so it's a bit rough around the edges.
 Getting the bezier curves to work was especially annoying.
-There's probably a way to make an SVG the Edges.Cuts but I'm too lazy to find out how.
+There's probably a way to make an SVG the Edges. Cuts but I'm too lazy to find out how.
 The electronics are really simple. It's a beginner project basically just connecting togther a batter, an LED, a resistor and a button.
 Not much to explain. In fact, the most challenging part was designing the butterfly shape in Krita and getting the pattern on the back to work.
 Oh hopefully the comically large vias won't destroy the structural stability of the part because I actually plan on using this.
 If I have any advice for other people, it's to not use Kicad with a tiling window manager. It made things really difficult.
+Also I almost forgot to run the checker. I just realized that my button holes weren't actually connected to the copper trace beneath them.
