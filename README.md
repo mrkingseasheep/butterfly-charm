@@ -17,10 +17,10 @@ Slack username: Xinyang Wang
 
 ## Images
 
-![Schematic](img/schematic.jpg)
-![PCB](img/pcb.jpg)
-![Front](img/front.jpg)
-![Back](img/back.jpg)
+![Schematic](img/schematic.png)
+![PCB](img/pcb.png)
+![Front](img/front.png)
+![Back](img/back.png)
 
 ## Thoughts
 
