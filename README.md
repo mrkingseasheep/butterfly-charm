@@ -15,6 +15,13 @@ Slack username: Xinyang Wang
 | 200ohm resistors    | 4   |
 | PCB                 | 1   |
 
+## Images
+
+![Schematic](img/schematic.jpg)
+![PCB](img/pcb.jpg)
+![Front](img/front.jpg)
+![Back](img/back.jpg)
+
 ## Thoughts
 
 This was my first time designing a board using Kicad so it's a bit rough around the edges.
